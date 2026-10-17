@@ -1,0 +1,1 @@
+{"name":"zhiwen-plugins","interface":{"displayName":"知问插件"},"plugins":[{"name":"zhiwen","source":{"source":"local","path":"./plugins/zhiwen"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"}]}
