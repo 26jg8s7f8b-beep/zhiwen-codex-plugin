@@ -1,0 +1,1 @@
+{"name":"zhiwen","version":"1.0.0","description":"通过知问任务码读取教材、严格组卷和复盘。","homepage":"https://zhiwen-study-lab.goofy-boot-6361.chatgpt.site","extensions":{"com.openai":{"interface":{"displayName":"知问","shortDescription":"教材组卷与学习复盘"}}}}
